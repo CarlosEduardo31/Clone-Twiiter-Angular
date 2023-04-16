@@ -18,7 +18,7 @@ Execute ng build para compilar o projeto. Os arquivos resultantes da compilaçã
 
 Para obter mais ajuda sobre o Angular CLI, execute ng help ou acesse a página Angular CLI Overview and Command Reference.
 
-##Aprendi as seguintes habilidades com este projeto:
+## Aprendi as seguintes habilidades com este projeto:
 
 * Componentizar a interface de usuário
 * Entender o funcionamento de um componente
